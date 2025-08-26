@@ -78,7 +78,7 @@ COUNT(show_id) AS CONTENT
 FROM netflix
 GROUP BY 1
 ORDER BY 2 DESC
-LIMIT 5
+LIMIT 5;
 ```
 ### 5. Identify the longest movie
 ```sql
@@ -86,7 +86,7 @@ SELECT * FROM netflix
 WHERE type ='Movie'
 		AND
 		duration =(SELECT MAX(duration)
-					FROM netflix)
+					FROM netflix);
 ```
 ### 6. Find content added in the last 5 years
 ```sql
@@ -117,7 +117,7 @@ SELECT *
 FROM netflix
 WHERE type ='TV Show'
 			AND
-			SPLIT_PART(duration,' ',1)::NUMERIC > 5
+			SPLIT_PART(duration,' ',1)::NUMERIC > 5;
 
 ```
 ### 9. Count the number of content items in each genre
@@ -127,7 +127,7 @@ SELECT
 		UNNEST(STRING_TO_ARRAY(listed_in,',')),
 		COUNT(*)AS NO_OF_CONTENT
 FROM netflix
-GROUP BY 1
+GROUP BY 1;
 ```
 
  
@@ -186,7 +186,7 @@ FROM netflix
 WHERE country ='India'
 GROUP BY 1
 ORDER BY 2 DESC
-LIMIT 10
+LIMIT 10;
 ```
 
 
@@ -209,3 +209,11 @@ WHEN
 END Category
 FROM netflix;
 ```
+## Findings and Conclusion
+
+- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.  
+- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.  
+- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.  
+- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.  
+
+ This analysis provides a **comprehensive view of Netflix's content** and can help inform **content strategy and decision-making**.
