@@ -218,7 +218,7 @@ FROM netflix;
 
  This analysis provides a **comprehensive view of Netflix's content** and can help inform **content strategy and decision-making**.
 
-## ✍️ Author
+##  Author
 
 **Zero Analyst (Abir Bhattacharjee)**  
 
@@ -235,4 +235,4 @@ This project is part of my portfolio, showcasing the **SQL skills** essential fo
  **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/abir-bhattacharjee-13386028b)  
 - [GitHub](https://github.com/AbirBhatt1999)  
-- 📧 Email: [abirbhattacharjee2018@gmail.com](mailto:abirbhattacharjee2018@gmail.com)
+-  Email: [abirbhattacharjee2018@gmail.com](mailto:abirbhattacharjee2018@gmail.com)
