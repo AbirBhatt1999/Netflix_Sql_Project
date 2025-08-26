@@ -217,3 +217,22 @@ FROM netflix;
 - **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.  
 
  This analysis provides a **comprehensive view of Netflix's content** and can help inform **content strategy and decision-making**.
+
+## ✍️ Author
+
+**Zero Analyst (Abir Bhattacharjee)**  
+
+This project is part of my portfolio, showcasing the **SQL skills** essential for Data Analyst roles.  
+
+###  Key Highlights:
+- Proficient in **SQL (DDL, DML, Joins, CTEs, Window Functions)**  
+- Experience with **Data Cleaning, Transformation, and Analysis**  
+- Skilled in **MySQL, PostgreSQL** and working with real-world datasets  
+- Strong understanding of **data visualization tools (Power BI, Excel, Python)**  
+- Passionate about solving **business problems using data-driven insights**  
+- Exploring advanced concepts like **Data Warehousing & Analytics**  
+
+ **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/abir-bhattacharjee-13386028b)  
+- [GitHub](https://github.com/AbirBhatt1999)  
+- 📧 Email: [abirbhattacharjee2018@gmail.com](mailto:abirbhattacharjee2018@gmail.com)
