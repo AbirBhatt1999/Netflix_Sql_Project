@@ -224,7 +224,7 @@ FROM netflix;
 
 This project is part of my portfolio, showcasing the **SQL skills** essential for Data Analyst roles.  
 
-###  Key Highlights:
+##  Key Highlights:
 - Proficient in **SQL (DDL, DML, Joins, CTEs, Window Functions)**  
 - Experience with **Data Cleaning, Transformation, and Analysis**  
 - Skilled in **MySQL, PostgreSQL** and working with real-world datasets  
