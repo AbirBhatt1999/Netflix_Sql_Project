@@ -232,7 +232,7 @@ This project is part of my portfolio, showcasing the **SQL skills** essential fo
 - Passionate about solving **business problems using data-driven insights**  
 - Exploring advanced concepts like **Data Warehousing & Analytics**  
 
- **Connect with me:**  
+ ## Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/abir-bhattacharjee-13386028b)  
 - [GitHub](https://github.com/AbirBhatt1999)  
 -  Email: [abirbhattacharjee2018@gmail.com](mailto:abirbhattacharjee2018@gmail.com)
